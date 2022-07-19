@@ -103,6 +103,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "Lok1Angular:build:production",
+            "firebaseProject": "lok1project",
+            "firebaseHostingSite": "lok1project"
+          }
         }
       }
     }

@@ -1,5 +1,6 @@
 # Lok1Angular
 
+You can view the site at this [link](https://lok1project.web.app/)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
 ## Development server

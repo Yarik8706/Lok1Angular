@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "lok1project": {
+      "hosting": {
+        "Lok1Angular": [
+          "lok1project"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lok1project"
+  }
+}
